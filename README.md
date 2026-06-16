@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-sensual/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Latido sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-sensual/) |
+| **Get License** | [License this song: Latido sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-sensual/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La noche llama y tu cuerpo me invita a pecar
+> Bajo la luna de Madrid te quiero devorar
+> Con ese ritmo lento que me hace enloquecer
+> Esta pasión secreta nadie la va a detener
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
